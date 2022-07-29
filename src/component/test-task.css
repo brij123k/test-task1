@@ -1,0 +1,52 @@
+.main{
+  width: 500px;
+  height: 350px;
+  margin-left:30%;
+  margin-top:5%;
+  background-color: #8080800a;
+}
+.submitform{
+  margin-left: 23px;
+}
+.text{
+ display: flex;
+ justify-content: center;
+ text-align: center;
+ flex-direction: column;
+}
+.text .tap{
+  margin:8px;
+}
+.text input{
+    margin-left: 30px;
+    font-size: larger;
+    width:20rem;
+}
+.text select{
+    margin-left: 30px;
+    font-size: larger; 
+    width:15rem;
+}
+.btn button{
+  margin-left: 23px;
+
+  
+}
+.btn-1{
+  width: 100px;
+  height: 50px;
+  border-radius: 2px;
+  background-color: green;
+  color: black;
+  margin: 10px;
+  border: none;
+}
+.btn-2{
+  width: 100px;
+  height: 50px;
+  border-radius: 2px;
+  background-color: rgb(253, 236, 236);
+  color: black;
+  margin: 16px;
+  border: none;
+}
